@@ -1,0 +1,1 @@
+Place to put items I forget, easy tricks that help with challenges and algorithm items.
